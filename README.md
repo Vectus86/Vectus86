@@ -1,9 +1,9 @@
-[![MasterHeadhttps://camo.githubusercontent.com/20ba1b87416f6e74a4debebec7a695504eec286a3a0a082f8cc6063ab1353dbe/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4647443642557a7a5a7331564a4c75592e676966)
+
 
 <h1 align="center">Hi 👋, I'm Calvin Lawrence</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-<img align="center" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="center" justify-content="center" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vectus86&label=Profile%20views&color=0e75b6&style=flat" alt="vectus86" /> </p>
 
